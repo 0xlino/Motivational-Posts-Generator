@@ -1,5 +1,7 @@
 # Motivational Posts Generator Python
 
+#### Avoid using the tool to spam or create undesirable content on the internet.
+
 ## Overview
 
 This Python script provides functionality to overlay quotes on images, along with additional features like applying a tint to the image, adding a trademark or logo, and resizing images. It's designed to create visually appealing quote images, suitable for sharing on social media or other platforms.
